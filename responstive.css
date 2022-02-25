@@ -1,0 +1,92 @@
+/* responstive */
+@media only screen and (max-width: 1000px) {
+  html {
+    font-size: 97%;
+  }
+  .col-md-6 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .col-md-3 {
+    width: 100%;
+    text-align: center;
+    padding: 0 13rem;
+    margin-bottom: 10px;
+  }
+  .col-md-4 {
+    width: 100%;
+    text-align: center;
+    padding: 0 15rem;
+    margin-bottom: 10px;
+  }
+  .col-md-8 {
+    width: 100%;
+  }
+  img {
+    height: auto;
+  }
+  img.img-fluid.rounded-start {
+    display: none;
+  }
+}
+@media only screen and (max-width: 896px) {
+  html {
+    font-size: 95%;
+  }
+  .col-md-3 {
+    padding: 0 9rem;
+  }
+  .col-md-4 {
+    padding: 0 9rem;
+  }
+}
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 90%;
+  }
+  .col-md-3 {
+    padding: 0 7rem;
+  }
+  .col-md-4 {
+    padding: 0 7rem;
+  }
+}
+@media only screen and (max-width: 700px) {
+  html {
+    font-size: 87%;
+  }
+  .col-md-3 {
+    padding: 0 5rem;
+  }
+  .col-md-4 {
+    padding: 0 5rem;
+  }
+}
+@media only screen and (max-width: 640px) {
+  html {
+    font-size: 85%;
+  }
+}
+@media only screen and (max-width: 414px) {
+  html {
+    font-size: 83%;
+  }
+  .col-md-3 {
+    padding: 0 3rem;
+  }
+  .col-md-4 {
+    padding: 0 3rem;
+  }
+}
+@media only screen and (max-width: 380px) {
+  html {
+    font-size: 83%;
+  }
+  .col-md-3 {
+    padding: 0 2rem;
+  }
+  .col-md-4 {
+    padding: 0 2rem;
+  }
+}

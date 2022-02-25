@@ -1,0 +1,25 @@
+.bg-1 {
+  background-color: #e6e6e6;
+}
+img {
+  max-width: 100%;
+}
+.section-4 {
+  background: url(https://blogger.googleusercontent.com/img/a/AVvXsEgL9OJcVH0QEVqaxmkHZqRjYx45cS1QhP3K32I9EKIWex_vH9dr8jkfj57HF_XcYluBdiGBahERFfsfdEQ5X0wgMig22psfO7xDaw3SrMa6YqwWUvnIBFOjj8KcUlnnBSi2a03BItdYkyU9CjEAA0jARjn5ToJ6FQPji0vsdFY0_7jriepz66pQZg=s1920);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: -2;
+}
+.abb-bg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 36%;
+  background-color: rgba(0, 0, 0, 0.623);
+  z-index: -1;
+}
+.col-md-6 .py-3 {
+  z-index: 122;
+}
